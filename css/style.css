@@ -1,0 +1,13 @@
+body
+{
+  margin-top: 60px;
+}
+
+blockquote{
+  background-color: white;
+  border-radius: 5px;
+}
+
+blockquote:hover {
+ font-size: 150%;
+}
