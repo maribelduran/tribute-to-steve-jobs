@@ -1,8 +1,8 @@
-#Tribute Page to Steve Jobs - A Basic Front End Development Project
+# Tribute Page to Steve Jobs - A Basic Front End Development Project
 
 A basic Front End Development project for FreeCodecamp. A simple tribute page featuring Steve Jobs timeline and some of his famous quotes.
 
-##Challenge Details from FreeCodeCamp
+## Challenge Details from FreeCodeCamp
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
 
